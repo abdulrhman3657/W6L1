@@ -19,8 +19,7 @@ function Programs() {
               </h5>
             </a>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Here are the biggest enterprise technology acquisitions of 2021 so
-              far, in reverse chronological order.
+يهدف البرنامج إلى تعليم أساسيات البرمجة باستخدام لغة Python من خلال منهج عملي وتطبيقي، يتناول مفاهيم رئيسية مثل المتغيرات، الشروط، الحلقات، الدوال، والتعامل مع الملفات. يشمل البرنامج البرمجة الكائنية ومعالجة الأخطاء لبناء برامج أكثر كفاءة، ينفذ المشاركون تمارين ومشاريع عملية لتعزيز مهاراتهم في كتابة الكود وحل المشكلات، كما أنه مصمم للمبتدئين، ويشكّل انطلاقة قوية نحو مجالات البرمجة وتحليل البيانات والذكاء الاصطناعي.
             </p>
             <a
               href="#"
@@ -60,8 +59,9 @@ function Programs() {
               </h5>
             </a>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Here are the biggest enterprise technology acquisitions of 2021 so
-              far, in reverse chronological order.
+يهدف البرنامج إلى تعريف المشاركين بالمفاهيم الأساسية لإنترنت الأشياء وكيفية تصميم وتطوير الأنظمة المتصلة التي تدمج بين الأجهزة الذكية والسحابة، كما يتضمن محاور عملية ونظرية تشمل البرمجة، الأجهزة المتصلة، البروتوكولات، وحلول إنترنت الأشياء، ضمن بيئة تعليمية تطبيقية بإشراف طاقم تعليمي متخصص.
+
+
             </p>
             <a
               href="#"
@@ -101,8 +101,9 @@ function Programs() {
               </h5>
             </a>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Here are the biggest enterprise technology acquisitions of 2021 so
-              far, in reverse chronological order.
+يهدف البرنامج إلى تقديم مقدمة شاملة للمفاهيم الأساسية وخدمات (Google Cloud Platform (GCP، ومساعدة المبتدئين في فهم البنية التحتية الأساسية لـ GCP، بما في ذلك الحوسبة، التخزين، والشبكات، بالإضافة إلى تعلم كيفية بناء ونشر التطبيقات السحابية بفعالية،. يتم التركيز على الجانب العملي من خلال استخدام Google Cloud Console و Cloud Shell، مما يعزز من الخبرة التطبيقية للمشاركين.
+
+
             </p>
             <a
               href="#"

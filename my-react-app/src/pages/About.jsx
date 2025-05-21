@@ -1,16 +1,19 @@
 import React from "react";
 
 function About() {
-  return <div>
-                <h1 className="text-3xl font-semibold lg:text-6xl">Who Are We</h1>
-            <p className="text-[#7C7C7C] lg:text-[#000000] lg:text-2xl py-2">
-              Tuwaiq Academy is the first educational program for advanced
-              technology fields in the Kingdom of Saudi Arabia. It offers a
-              number of diverse programs in various technical tracks for
-              different age groups. The establishment of the academy was
-              announced in August 2019.
-            </p>
+  return <div  className="flex justify-center py-5">
+    <div className="w-8/10">
+    <h1>What do we offer?</h1>
+    <ul className="flex gap-3 my-3">
+      <li>Bootcamps</li>
+      <li>Training programs</li>
+      <li>E-Learning</li>
+      <li>Global competitions</li>
+      <li>Digital communities</li>
+      <li>Knowledge sessions</li>
+    </ul>
   </div>;
+  </div>
 }
 
 export default About;
